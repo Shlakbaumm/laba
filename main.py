@@ -1,4 +1,6 @@
 a=1
 b=1
 if a==b:
-    print('Barbos chmo')
+    print('Privet')
+else:
+    print('Not Privet')
