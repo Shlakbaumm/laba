@@ -12,3 +12,6 @@ ch=2
 st=9
 zn=ch**st
 print(zn)
+for i in range(10000):
+    if i == zn:
+        print('Pobeda')
